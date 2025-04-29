@@ -1,4 +1,4 @@
-# 📖 Hi, I'm Wei Sin!
+# 📖 Hi and welcome
 
 In a bustling world of bytes and brainstorms,  
 there lived a curious and lifelong explorer named **Wei Sin** — that's me! 🌟
