@@ -1,7 +1,7 @@
-# 📖 Once Upon a Time... Hi, I'm Wei Sin!
+# 📖 Hi, I'm Wei Sin!
 
 In a bustling world of bytes and brainstorms,  
-there lived a curious explorer named **Wei Sin** — that's me! 🌟
+there lived a curious and lifelong explorer named **Wei Sin** — that's me! 🌟
 
 With a backpack full of questions and a heart full of wonder,  
 I set off on a journey to uncover the magic hidden in **AI**, **technology**, and the art of building things that matter.
