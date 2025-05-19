@@ -1,7 +1,7 @@
-# 📖 Hi and welcome
+# 📖 Welcome
 
-In a bustling world of bytes and brainstorms,  
-there lived a curious and lifelong explorer named **Wei Sin** — that's me! 🌟
+In a world of bytes and brainstorms,  
+there lived a lifelong explorer named **Wei Sin** — that's me! 🌟
 
 With a backpack full of questions and a heart full of wonder,  
 I set off on a journey to uncover the magic hidden in **AI**, **technology**, and the art of building things that matter.
@@ -27,8 +27,9 @@ I set off on a journey to uncover the magic hidden in **AI**, **technology**, an
 If you love dreaming, building, and wandering the tech frontier too,  
 feel free to reach out — every good adventure needs companions! 🧙‍♂️✨
 
+## 👍🏼Lifestyle Inspirational Gurus
+- I love listening and following to podcasts, vodcasts and books by Adam Grant, Vinh Giang, Steven Bartlet, Gary Sinise
+
 - 📫 datakunoichi@yahoo.com
 - 🐦 https://www.linkedin.com/in/howeisin
 - 🌐 https://github.com/datakunoichi/datakunoichi.github.io
-
-"Curiosity is the compass. Imagination is the map. Let's see where the story takes us."
